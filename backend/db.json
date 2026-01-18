@@ -1,0 +1,142 @@
+{
+  "submissions": [
+    {
+      "id": "1768754641245",
+      "createdAt": "2026-01-18T16:44:01.245Z",
+      "input": {
+        "industry": "retail",
+        "companySize": "1–50",
+        "trackMetrics": "No",
+        "challenge": "Data collection"
+      },
+      "result": {
+        "score": 35,
+        "stage": 1,
+        "title": "Starting Point",
+        "desc": "You're at the beginning — focus on baselines, boundaries, and KPI ownership.",
+        "engagement": "ESG Foundation Sprint (baseline + KPI dictionary + data ownership).",
+        "nextSteps": [
+          "Define measurement boundaries (energy, waste, emissions).",
+          "Create a KPI dictionary (what, how, owner, cadence).",
+          "Set 12 core KPIs you can track reliably.",
+          "Assign owners and start a monthly review cadence."
+        ]
+      }
+    },
+    {
+      "id": "1768754605473",
+      "createdAt": "2026-01-18T16:43:25.473Z",
+      "input": {
+        "industry": "retail",
+        "companySize": "1–50",
+        "trackMetrics": "Yes",
+        "challenge": "Data collection"
+      },
+      "result": {
+        "score": 55,
+        "stage": 2,
+        "title": "Build Momentum",
+        "desc": "You have the basics — now standardize data capture and expand coverage.",
+        "engagement": "ESG Ops Pack (data workflows + KPI tracking + review cadence).",
+        "nextSteps": [
+          "Standardize data collection templates and sources.",
+          "Introduce monthly KPI reviews and action tracking.",
+          "Add supplier / scope data where relevant.",
+          "Document controls and evidence collection."
+        ]
+      }
+    },
+    {
+      "id": "1768754149537",
+      "createdAt": "2026-01-18T16:35:49.537Z",
+      "input": {
+        "industry": "retail",
+        "companySize": "small",
+        "trackMetrics": "none",
+        "challenge": "data"
+      },
+      "result": {
+        "score": 40,
+        "stage": 2,
+        "title": "Build Momentum",
+        "desc": "You have the basics — now standardize data capture and expand coverage.",
+        "engagement": "ESG Ops Pack (data workflows + KPI tracking + review cadence).",
+        "nextSteps": [
+          "Standardize data collection templates and sources.",
+          "Introduce monthly KPI reviews and action tracking.",
+          "Add supplier / scope data where relevant.",
+          "Document controls and evidence collection."
+        ]
+      }
+    },
+    {
+      "id": "1768754142845",
+      "createdAt": "2026-01-18T16:35:42.845Z",
+      "input": {
+        "industry": "manufacturing",
+        "companySize": "mid",
+        "trackMetrics": "structured",
+        "challenge": "story"
+      },
+      "result": {
+        "score": 40,
+        "stage": 2,
+        "title": "Build Momentum",
+        "desc": "You have the basics — now standardize data capture and expand coverage.",
+        "engagement": "ESG Ops Pack (data workflows + KPI tracking + review cadence).",
+        "nextSteps": [
+          "Standardize data collection templates and sources.",
+          "Introduce monthly KPI reviews and action tracking.",
+          "Add supplier / scope data where relevant.",
+          "Document controls and evidence collection."
+        ]
+      }
+    },
+    {
+      "id": "1768754135374",
+      "createdAt": "2026-01-18T16:35:35.374Z",
+      "input": {
+        "industry": "manufacturing",
+        "companySize": "mid",
+        "trackMetrics": "partial",
+        "challenge": "data"
+      },
+      "result": {
+        "score": 40,
+        "stage": 2,
+        "title": "Build Momentum",
+        "desc": "You have the basics — now standardize data capture and expand coverage.",
+        "engagement": "ESG Ops Pack (data workflows + KPI tracking + review cadence).",
+        "nextSteps": [
+          "Standardize data collection templates and sources.",
+          "Introduce monthly KPI reviews and action tracking.",
+          "Add supplier / scope data where relevant.",
+          "Document controls and evidence collection."
+        ]
+      }
+    },
+    {
+      "id": "1768753909821",
+      "createdAt": "2026-01-18T16:31:49.821Z",
+      "input": {
+        "industry": "manufacturing",
+        "companySize": "mid",
+        "trackMetrics": "partial",
+        "challenge": "data"
+      },
+      "result": {
+        "score": 40,
+        "stage": 2,
+        "title": "Build Momentum",
+        "desc": "You have the basics — now standardize data capture and expand coverage.",
+        "engagement": "ESG Ops Pack (data workflows + KPI tracking + review cadence).",
+        "nextSteps": [
+          "Standardize data collection templates and sources.",
+          "Introduce monthly KPI reviews and action tracking.",
+          "Add supplier / scope data where relevant.",
+          "Document controls and evidence collection."
+        ]
+      }
+    }
+  ]
+}
