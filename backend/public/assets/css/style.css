@@ -44,9 +44,7 @@ body{
   --shadow-sm: 0 10px 24px rgba(15, 23, 42, 0.06);
   --shadow-lg: 0 28px 70px rgba(15, 23, 42, 0.10);
 
-  /* =========================
-     BUTTON COLORS (EDIT HERE)
-     ========================= */
+
   --btn-bg: #3c43c4;
   --btn-text: #ffffff;
 
@@ -143,9 +141,6 @@ ul { margin: 0; padding-left: 18px; }
   color: var(--btn-outline-hover-text);
 }
 
-/* =========================
-   Special buttons (override)
-   ========================= */
 
 /* NAV Contact button */
 .btn.btn-contact{
@@ -556,9 +551,7 @@ input:focus, select:focus, textarea:focus{
 /* ---------- Smooth scroll header offset ---------- */
 section{ scroll-margin-top: 96px; }
 
-/* =========================
-   Pricing Plans
-   ========================= */
+
 .pricing{
   background: linear-gradient(180deg, #ffffff, var(--bg));
    padding: 96px 0 140px; /* top | left-right | bottom */
@@ -803,10 +796,6 @@ section{ scroll-margin-top: 96px; }
   color: #facc15;
 }
 
-
-/* =========================
-   HERO – CENTERED LAYOUT
-   ========================= */
 
 .page-hero{
   justify-content: center;   /* vertical centering */
